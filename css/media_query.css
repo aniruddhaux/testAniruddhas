@@ -1,0 +1,916 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+
+	
+
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+
+    a.requestBtn.blue.buttonCenter {
+        width: 22%;
+    }
+	.emergencySecDetails .emergencyText {
+        margin-left: 12%;
+    }
+    .services .servicesDetails .services_pic {
+        width: auto;
+        height: auto;
+    }
+    .services_right {
+        margin-left: 60px;
+    }
+    a.requestBtn.blue.buttonCenter {
+        width: 25%;
+    }
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+
+/***Header NavSection start**/
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+/***Header NavSection End**/
+
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+}
+.services_right {
+    margin-left: 60px;
+}
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 24%;
+}
+
+/***helpin section End**/
+
+
+
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+}
+/***emergency section End**/
+
+/***testimonial section start**/
+.testimonial {
+    padding: 60px 0;
+    overflow: hidden;
+}
+/***testimonial section End**/
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+  /***Header NavSection start**/  
+    #header {
+        padding: 0 !important;
+        float: none !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+    .float-end{
+        float: none !important;
+    }
+    
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 34px;
+        right: 11px;
+        width: auto;
+    }
+
+    .quort{
+        display: none;
+    }
+    .rightSec {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+        margin-right: 70px;
+    }
+    /***Header NavSection end**/
+
+ /***Banner start**/
+
+
+ .banner_pic {
+    width: 352px;
+    height: 422px;
+    float: right;
+}
+
+.banner_text h2 {
+    font-size: 31px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 1px -1px 0px #000;
+}
+
+.banner_text p {
+    font-size: 16px;
+    color: #b1d3ff;
+    padding: 19px 0;
+    margin-bottom: 0;
+}
+a.requestBtn {
+    background: #fff;
+    padding: 15px 28px;
+
+}
+ /***Banner End**/
+
+/***services start**/
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.services_right {
+    width: auto ;
+}
+/***services End**/
+
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+    width: 100%;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 28%;
+}
+
+/***helpin section End**/
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+}
+.emergencyPic {
+    width: 100%;
+}
+.emergencyPic img {
+    width: 100%;
+}
+.emergencySecDetails .emergencyText p {
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.emergencySecDetails .emergencyText {
+    margin-left: 0;
+    width: auto;
+}
+/***emergency section End**/
+/***testimonial section start**/
+.testimonial {
+    padding: 60px 0;
+    overflow: hidden;
+}
+/***testimonial section End**/
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+    /***Header NavSection start**/
+    #header {
+        padding: 0 !important;
+        float: none !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+    .float-end{
+        float: none !important;
+    }
+    
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 34px;
+        right: 11px;
+        width: auto;
+    }
+
+    .quort{
+        display: none;
+    }
+    .rightSec {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+        margin-right: 70px;
+    }
+    /***Header NavSection end**/
+
+ /***Banner start**/
+
+
+ .banner_pic {
+    width: 312px;
+    height: 352px;
+    float: right;
+}
+
+.banner_text h2 {
+    font-size: 31px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 1px -1px 0px #000;
+}
+
+.banner_text p {
+    font-size: 16px;
+    color: #b1d3ff;
+    padding: 19px 0;
+    margin-bottom: 0;
+}
+a.requestBtn {
+    background: #fff;
+    padding: 15px 28px;
+}
+.banner_text {
+    margin-top: 20px;
+}
+.bannerSec {
+    background: #2657fc;
+    padding-top: 50px;
+}
+ /***Banner End**/
+
+/***services start**/
+.services {
+    padding: 40px 0;
+    overflow: hidden;
+    }
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+    margin-bottom: 30px;
+}
+.services_right {
+    width: auto !important;
+}
+/***services End**/
+
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 34%;
+}
+.helpingDetailsText .helpingPara {
+    font-size: 14px;
+    line-height: 23px;
+    color: #6a6663;
+    font-weight: 400;
+    width: auto;
+}
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+.helpingDetailsPic img {
+    width: 100%;
+}
+.helpingDetails {
+    display: flex;
+    gap: 30px;
+}
+/***helpin section End**/
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+    margin-top: 60px;
+}
+.emergencyPic {
+    width: 100%;
+    margin-top: 16px;
+}
+.emergencyPic img {
+    width: 100%;
+}
+.emergencySecDetails .emergencyText p {
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.emergencySecDetails .emergencyText {
+    margin-left: 0;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.emergencySecDetails {
+    display: flex;
+    flex-direction: column-reverse;
+}
+/***emergency section End**/
+/***testimonial section start**/
+.testimonial {
+    padding: 60px 0;
+    overflow: hidden;
+}
+.testimoniaSingle{
+    margin-bottom: 30px;
+}
+.testimoniaSingle:last-child{
+    margin-bottom: 0;
+}
+/***testimonial section End**/
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+/***Header NavSection start**/
+    #header {
+        padding: 0 !important;
+        float: none !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+    .float-end{
+        float: none !important;
+    }
+    
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 34px;
+        right: 11px;
+        width: auto;
+    }
+
+    .quort{
+        display: none;
+    }
+    .rightSec {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+        margin-right: 70px;
+    }
+	/***Header NavSection end**/
+ /***Banner start**/
+
+
+ .banner_pic {
+    width: 222px;
+    height: 272px;
+    float: right;
+}
+.banner_text h2 {
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 0px 0px 0px #000;
+}
+
+.banner_text p {
+    font-size: 14px;
+    color: #b1d3ff;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+a.requestBtn {
+    background: #fff;
+    padding: 12px 21px;
+}
+.banner_text {
+    margin-top: 20px;
+}
+.bannerSec {
+    background: #2657fc;
+    padding-top: 50px;
+}
+ /***Banner End**/
+/***services start**/
+.services {
+    padding: 40px 0;
+    overflow: hidden;
+    }
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+    margin-bottom: 30px;
+}
+.services_right {
+    width: auto !important;
+}
+/***services End**/
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 42%;
+}
+.helpingDetailsText .helpingPara {
+    font-size: 14px;
+    line-height: 23px;
+    color: #6a6663;
+    font-weight: 400;
+    width: auto;
+}
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+.helpingDetailsPic img {
+    width: 100%;
+}
+.helpingDetails {
+    display: flex;
+    gap: 30px;
+}
+/***helpin section End**/
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+    margin-top: 60px;
+}
+.emergencyPic {
+    width: 100%;
+    margin-top: 16px;
+}
+.emergencyPic img {
+    width: 100%;
+}
+.emergencySecDetails .emergencyText p {
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.emergencySecDetails .emergencyText {
+    margin-left: 0;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.emergencySecDetails {
+    display: flex;
+    flex-direction: column-reverse;
+}
+/***emergency section End**/
+/***testimonial section start**/
+.testimonial {
+    padding: 60px 0;
+    overflow: hidden;
+}
+.testimoniaSingle{
+    margin-bottom: 30px;
+}
+.testimoniaSingle:last-child{
+    margin-bottom: 0;
+}
+/***testimonial section End**/
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+ /***Header NavSection start**/
+	#header {
+        padding: 0 !important;
+        float: none !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+    .float-end{
+        float: none !important;
+    }
+    
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 34px;
+        right: 11px;
+        width: auto;
+    }
+
+    .quort{
+        display: none;
+    }
+    .rightSec {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+        margin-right: 70px;
+    }
+	.emergency {
+        display: none;
+    }
+    .mobileEmergency {
+        background: #1843d5;
+        padding: 10px 0;
+        display: block;
+    }
+    .mobileEmergency .emergency{
+        display: block;
+    }
+
+    .NavSec {
+        padding: 15px 0;
+        background: #2657fc;
+        position: relative;
+    }
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 19px;
+        right: 11px;
+        width: auto;
+    }
+    /***Header NavSection end**/
+
+ /***Banner start**/
+
+ .banner_pic {
+    width: 222px;
+    height: 272px;
+    float: right;
+}
+.banner_text h2 {
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 0px 0px 0px #000;
+}
+
+.banner_text p {
+    font-size: 14px;
+    color: #b1d3ff;
+    padding: 10px 0;
+    margin-bottom: 0;
+}
+a.requestBtn {
+    background: #fff;
+    padding: 12px 21px;
+}
+.banner_text {
+    margin-top: 20px;
+}
+.bannerSec {
+    background: #2657fc;
+    padding-top: 20px;
+}
+
+.bannerSec .banner_Left {
+    width: 100%;
+}
+
+.bannerSec .banner_Right {
+    width: 100%;
+    margin-top: 40px;
+}
+.banner_pic {
+    width: auto;
+    height: auto;
+    float: right;
+}
+
+ /***Banner End**/
+
+ /***services start**/
+ .services {
+    padding: 40px 0;
+    overflow: hidden;
+    }
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+    margin-bottom: 30px;
+}
+.services_right {
+    width: auto !important;
+}
+/***services End**/
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 64%;
+}
+.helpingDetailsText .helpingPara {
+    font-size: 14px;
+    line-height: 23px;
+    color: #6a6663;
+    font-weight: 400;
+    width: auto;
+}
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+.helpingDetailsPic img {
+    width: 100%;
+}
+.helpingDetails {
+    display: flex;
+    gap: 30px;
+}
+/***helpin section End**/
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+    margin-top: 60px;
+}
+.emergencyPic {
+    width: 100%;
+    margin-top: 16px;
+}
+.emergencyPic img {
+    width: 100%;
+}
+.emergencySecDetails .emergencyText p {
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.emergencySecDetails .emergencyText {
+    margin-left: 0;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.emergencySecDetails {
+    display: flex;
+    flex-direction: column-reverse;
+}
+/***emergency section End**/
+/***testimonial section start**/
+.testimonial {
+    padding: 40px 0;
+    overflow: hidden;
+}
+.heading {
+    margin-bottom: 30px;
+}
+.testimoniaSingle{
+    margin-bottom: 30px;
+}
+.testimoniaSingle:last-child{
+    margin-bottom: 0;
+}
+/***testimonial section End**/
+}
+
+@media only screen and (max-width:320px) {
+    /***Header NavSection start**/
+    #header {
+        padding: 0 !important;
+        float: none !important;
+    }
+    .container {
+        max-width: 100% !important;
+    }
+	#header .navMenu ul {
+        padding: 19px 0px 0 0 !important;
+    }
+    .float-end{
+        float: none !important;
+    }
+    
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 34px;
+        right: 11px;
+        width: auto;
+    }
+
+    .quort{
+        display: none;
+    }
+    .rightSec {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+        margin-right: 70px;
+    }
+	.emergency {
+        display: none;
+    }
+    .mobileEmergency {
+        background: #1843d5;
+        padding: 10px 0;
+        display: block;
+    }
+    .mobileEmergency .emergency{
+        display: block;
+    }
+
+    .NavSec {
+        padding: 15px 0;
+        background: #2657fc;
+        position: relative;
+    }
+    #header {
+        float: none !important;
+        height: auto;
+        position: absolute;
+        top: 19px;
+        right: 11px;
+        width: auto;
+    }	
+  /***Header NavSection End***/
+	/***Banner start**/
+
+    .banner_pic {
+        width: 222px;
+        height: 272px;
+        float: right;
+    }
+    .banner_text h2 {
+        font-size: 20px;
+        font-weight: 800;
+        color: #fff;
+        text-shadow: 0px 0px 0px #000;
+    }
+    
+    .banner_text p {
+        font-size: 14px;
+        color: #b1d3ff;
+        padding: 10px 0;
+        margin-bottom: 0;
+    }
+    a.requestBtn {
+        background: #fff;
+        padding: 12px 21px;
+    }
+    .banner_text {
+        margin-top: 20px;
+    }
+    .bannerSec {
+        background: #2657fc;
+        padding-top: 20px;
+    }
+    
+    .bannerSec .banner_Left {
+        width: 100%;
+    }
+    
+    .bannerSec .banner_Right {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .banner_pic {
+        width: auto;
+        height: auto;
+        float: right;
+    }
+
+     /***Banner End**/	
+
+      /***services start**/
+.services {
+    padding: 40px 0;
+    overflow: hidden;
+    }
+.services .servicesDetails .services_pic {
+    width: auto;
+    height: auto;
+    margin-bottom: 30px;
+}
+.services_right {
+    width: auto !important;
+}
+/***services End**/
+
+/***helpin section Start**/
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+}
+a.requestBtn.blue.buttonCenter {
+    width: 64%;
+}
+.helpingDetailsText .helpingPara {
+    font-size: 14px;
+    line-height: 23px;
+    color: #6a6663;
+    font-weight: 400;
+    width: auto;
+}
+.helpingDetailsPic {
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+.helpingDetailsPic img {
+    width: 100%;
+}
+.helpingDetails {
+    display: flex;
+    gap: 30px;
+}
+
+/***helpin section End**/
+/***emergency section Start**/
+.emergencySecDetails .emergencyText {
+    margin-left: 12%;
+}
+.emergencySec {
+    background: #2253ee;
+    margin-top: 60px;
+}
+.emergencyPic {
+    width: 100%;
+    margin-top: 16px;
+}
+.emergencyPic img {
+    width: 100%;
+}
+.emergencySecDetails .emergencyText p {
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.emergencySecDetails .emergencyText {
+    margin-left: 0;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.emergencySecDetails {
+    display: flex;
+    flex-direction: column-reverse;
+}
+/***emergency section End**/
+/***testimonial section start**/
+.testimonial {
+    padding: 40px 0;
+    overflow: hidden;
+}
+.heading {
+    margin-bottom: 30px;
+}
+.testimoniaSingle{
+    margin-bottom: 30px;
+}
+.testimoniaSingle:last-child{
+    margin-bottom: 0;
+}
+/***testimonial section End**/
+}
